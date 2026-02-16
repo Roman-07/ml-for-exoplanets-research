@@ -32,7 +32,7 @@ The dissertation is structured around three core components:
     method, with thousands of confirmed discoveries.
 -   Traditional models (e.g., BLS, TLS) rely on curve fitting and
     statistical optimisation.
--   Deep learning models---especially CNNs---consistently achieve higher
+-   Deep learning models (especially CNNs) consistently achieve higher
     true positive rates and better ROC performance.
 -   Recent research demonstrates significant gains in both **accuracy**
     and **computational speed** using GPU-accelerated AI systems.
