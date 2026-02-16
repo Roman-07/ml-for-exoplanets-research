@@ -8,8 +8,8 @@ dissertation:
 **"To what extent does AI assist in identifying exoplanets using the
 transit photometry method?"**
 
-The project explores how machine learning---particularly deep neural
-networks---compares to traditional mathematical models in detecting
+The project explores how machine learning, particularly deep neural
+networks, compares to traditional mathematical models in detecting
 exoplanets from stellar light curves.
 
 ------------------------------------------------------------------------
@@ -38,30 +38,3 @@ The dissertation is structured around three core components:
     and **computational speed** using GPU-accelerated AI systems.
 -   AI is now a dominant tool in large-scale missions such as **Kepler**
     and **TESS**.
-
-------------------------------------------------------------------------
-
-## Structure
-
-    exoplanet-ai-dissertation/
-    ├── Dissertation_&_literature_review.pdf
-    └── README.md
-
-------------------------------------------------------------------------
-
-## Skills Demonstrated
-
--   Mathematical modelling\
--   Statistical reasoning\
--   Machine learning theory\
--   Critical analysis of peer-reviewed research\
--   Scientific writing and structured evaluation
-
-------------------------------------------------------------------------
-
-## Outcome
-
-The dissertation concludes that AI plays a crucial and increasingly
-indispensable role in exoplanet detection via transit photometry,
-outperforming traditional mathematical models in accuracy, scalability,
-and adaptability.
